@@ -1,4 +1,16 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-3.2+-green?logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Firebase-Backend-orange?logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/CRUD-Operations-blueviolet?logo=server&logoColor=white" alt="CRUD" />
+  <img src="https://img.shields.io/badge/Authentication-JWT-important?logo=security&logoColor=white" alt="Authentication" />
+</p>
 
+# 🐍 Desenvolvendo Aplicações Web com Python
+
+## Professor, Dr. Vinícius Costa Amador 
+
+# Módulo 1
 # 💻 Django Módulo 1: Tutorial de Criação de App Usuário (Login e Logout) | Django Module 1: User App Creation Tutorial (Login and Logout) | Django 模块 1：用户应用创建教程（登录和注销）
 
 Este projeto é um guia passo a passo para criar um sistema de autenticação com Django, utilizando templates, views e testes. Ele foi iniciado em março de 2025 com Flask e FastAPI, e agora está totalmente migrado para o Django com foco em um fluxo completo de desenvolvimento.  | This project is a step-by-step guide to create an authentication system using Django, including templates, views, and testing. It was originally started in March 2025 using Flask and FastAPI, and has now been fully migrated to Django with a complete development workflow.  | 本项目是一个使用 Django 创建认证系统的逐步指南，包括模板、视图和测试。最初于 2025 年 3 月使用 Flask 和 FastAPI 启动，现在已完全迁移到 Django，专注于完整的开发流程。
