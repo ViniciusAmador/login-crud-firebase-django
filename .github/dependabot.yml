@@ -1,9 +1,9 @@
 version: 2
 update:
-  -package-ecosystem: "pip"
-  directory: "/"
-  schedule: 
-    interval: "weekly"
-  open-pull-request-limit: 5
-  commit-menssage: 
-    prefix: "chore"
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule: 
+      interval: "weekly"
+    open-pull-request-limit: 5
+    commit-menssage: 
+      prefix: "chore"
